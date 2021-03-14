@@ -1,0 +1,3 @@
+﻿  test.c
+c:\users\administrator\desktop\2021-c#\整数倒序.c\整数倒序.c\test.c(11): warning C4013: “reverse”未定义；假设外部返回 int
+  整数倒序.c.vcxproj -> C:\Users\Administrator\Desktop\2021-C#\整数倒序.c\Debug\整数倒序.c.exe
